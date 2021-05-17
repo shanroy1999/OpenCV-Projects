@@ -2,7 +2,7 @@ import cv2
 
 """ For creating the custom classifier :
 
-1) Download the software - "Cascade Trainger GUI (version 3.3.1)"
+1) Download the software - "Cascade Trainer GUI (version 3.3.1)"
 2) Download / capture multiple images for the object which you want to detect / classify. (Example => Image of Wrist Watch)
 3) Download / capture other images of random things which are different from the object which you want to detect / classify (Example => Image of bottle / glass / car)
 4) Create a new folder "images" and create 2 subdirs "pos" and "neg" inside it
